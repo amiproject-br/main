@@ -1,6 +1,6 @@
 <template>
   <div id="app">
-    <img src="./assets/logo.png">
+    <img src="https://github.com/amiproject-br/amiproject-br.github.io/raw/master/logo.png">
     <router-view/>
   </div>
 </template>
